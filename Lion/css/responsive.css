@@ -1,0 +1,246 @@
+/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+ @media only screen and (min-width: 768px) and (max-width: 991px) {
+     .main-menu ul>li a {
+         padding: 20px 20px 20px;
+    }
+     .header-search {
+         padding: 15px 0px;
+    }
+}
+/*------------------------------------------------------------------- 767px x 599px ---------------------------------------------------------------------*/
+ @media only screen and (min-width: 599px) and (max-width: 767px) {
+     .logo {
+         text-align: center;
+    }
+     .cart-content-right {
+         padding-bottom: 5px;
+    }
+     .mg {
+         margin: 0px 0px;
+    }
+     .menu-area-main {
+         height: 256px;
+         overflow-y: auto;
+    }
+     .megamenu>.row [class*="col-"] {
+         padding: 0px;
+    }
+     .menu-area-main .megamenu .men-cat {
+         padding: 0px 15px;
+    }
+     .menu-area-main .megamenu .women-cat {
+         padding: 0px 15px;
+    }
+     .menu-area-main .megamenu .el-cat {
+         padding: 0px 15px;
+    }
+     .mean-container .mean-nav ul li a.mean-expand {
+         height: 19px;
+    }
+     .category-box.women-box {
+         display: none;
+    }
+     .cart-box {
+         display: inline-block;
+         margin: 0px 30px;
+    }
+     .wish-box {
+         float: none;
+         margin: 0px 30px;
+         display: inline-block;
+    }
+     .menu-add {
+         display: none;
+    }
+     .category-box {
+         display: none;
+    }
+     .mean-container .mean-nav ul li ol {
+         padding: 0px;
+    }
+     .mean-container .mean-nav ul li a {
+         padding: 10px 20px;
+         width: 94.8%;
+    }
+     .mean-container .mean-nav ul li li a {
+         width: 92%;
+         padding: 1em 4%;
+    }
+     .mean-container .mean-nav ul li li li a {
+         width: 100%;
+    }
+     .header-search {
+         padding: 15px 0px;
+    }
+     #collapseFilter.d-md-block {
+         padding: 30px 0px;
+    }
+}
+/*------------------------------------------------------------------- 599px x 280px ---------------------------------------------------------------------*/
+ @media only screen and (min-width: 280px) and (max-width: 599px) {
+     .cart-content-right {
+         padding-bottom: 5px;
+    }
+     .megamenu>.row [class*="col-"] {
+         padding: 0px;
+    }
+     .menu-area-main .megamenu .men-cat {
+         padding: 0px 15px;
+    }
+     .menu-area-main .megamenu .women-cat {
+         padding: 0px 15px;
+    }
+     .menu-area-main .megamenu .el-cat {
+         padding: 0px 15px;
+    }
+     .mean-container .mean-nav ul li a {
+         padding: 1em 4%;
+         width: 92%;
+    }
+     .mean-container .mean-nav ul li li a {
+         width: 90%;
+         padding: 1em 5%;
+    }
+     .mean-container .sub-full.megamenu-categories ol li a {
+         padding: 5px 0px;
+         text-transform: capitalize;
+         width: 100%;
+    }
+     .megamenu .sub-full.megamenu-categories .women-box .banner-up-text a {
+         width: auto;
+         border: none;
+         float: none;
+    }
+     .menu-area-main {
+         height: 290px;
+         overflow-y: auto;
+    }
+     .mean-container .mean-nav ul li a.mean-expand {
+         top: 0;
+    }
+}
+ @media (min-width: 1200px) and (max-width: 1500px) {
+     .banner-main .carousel-caption {
+         background: transparent;
+    }
+}
+ @media (min-width: 992px) and (max-width: 1199px) {
+    
+     .save_box h3 {
+       font-size: 91px;
+     } 
+
+    ul.categiri li a {
+        padding: 7px 8px;
+        font-size: 15px;
+    }
+
+    .address h3 {
+        font-size: 22px;
+    } 
+    
+     ul.loca li {
+        font-size: 15px;
+     }
+    
+     
+     
+}
+ @media (min-width: 768px) and (max-width: 991px) {
+     .right_header_info {
+       margin-top: -69px;
+         padding:0;
+    }
+     
+    .right_header_info ul li {
+         margin-left: 10px;
+    }
+    .padding3 {
+        padding: 0px 15px;
+    } 
+    .banner_main .text-bg h1 {
+        font-size: 80px;
+        line-height: 100px;
+    }
+  ul.categiri li a {
+         padding: 5px 8px;
+         font-size: 15px;
+  }
+  .save_box h3 {
+    font-size: 63px;
+    line-height: 121px;
+}
+
+  .buynow {margin-bottom: 30px;}
+  .brand-bg {padding-bottom: 0px;}
+  .shoes-bg  {padding-bottom: 0px;}
+  .Jewellery-bg  {padding-bottom: 0px;}
+  .Menu_footer {margin-bottom: 30px;}
+
+
+}
+ @media (min-width: 576px) and (max-width: 767px) {
+     .right_header_info {
+        margin-top: -70px;
+         padding:0;
+    }
+    .head_top {background: #ec3e0f;}
+     .header {
+        padding-bottom: 25px;
+         padding-top: 35px;
+    }
+    .text-bg {max-width: inherit;
+              padding-left: inherit;
+              padding-bottom: 60px;
+              float: inherit;
+          }
+          .save_box  {padding:40px 20px;}
+    .padding3 {padding: 0px 15px; } 
+    .menu_iconb {display: none !important;}
+    .tytyu {display: none !important;}
+    ul.categiri li {margin-bottom: 5px;}
+    ul.categiri li a {padding: 6px 8px; font-size: 15px;}
+    .save_box h3 {font-size: 57px; line-height: 78px;}
+    .save_box::before {position: inherit;}
+    .buynow {margin-bottom: 30px;}
+  .brand-bg {padding-bottom: 0px;}
+  .shoes-bg  {padding-bottom: 0px;}
+  .Jewellery-bg  {padding-bottom: 0px;}
+   .Menu_footer {margin-bottom: 30px;}
+}
+ @media (max-width: 575px) {
+    .right_header_info  {margin-top: -60px;}
+     .header {
+         padding-bottom: 25px;
+         padding-top: 25px;
+    }
+    
+     .logo {
+         width: 134px;
+    }
+    .save_box  {padding:40px 20px;}
+     .head_top {background: #ec3e0f;}
+    
+    
+    .banner_main .text-bg h1 {font-size: 63px; line-height: 86px;}
+      .save_box::before{ position: inherit;}
+  .save_box h3 {font-size: 45px; line-height: 62px;}
+ul.categiri li a{padding: 5px 6px; font-size: 15px;}
+.title h2 {font-size: 39px; max-width: 258px;}
+   .text-bg {max-width: inherit;
+              padding-left: inherit;
+              padding-bottom: 60px;
+              float: inherit;
+          }
+    .padding3 {padding: 0px 15px; } 
+    .menu_iconb {display: none !important;}
+    .tytyu {display: none !important;}
+    .buynow {margin-bottom: 30px;}
+  .brand-bg {padding-bottom: 0px;}
+  .shoes-bg  {padding-bottom: 0px;}
+  .Jewellery-bg  {padding-bottom: 0px;}
+    ul.loca {margin-bottom: 30px;}
+    ul.Menu_footer  {margin-bottom: 30px;}
+    ul.Links_footer  {margin-bottom: 30px;}
+}

@@ -1,0 +1,640 @@
+/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .header-search {
+        padding: 15px 0px;
+    }
+}
+
+
+/*------------------------------------------------------------------- 767px x 599px ---------------------------------------------------------------------*/
+
+@media only screen and (min-width: 599px) and (max-width: 767px) {
+    .logo {
+        text-align: center;
+    }
+    .cart-content-right {
+        padding-bottom: 5px;
+    }
+    .mg {
+        margin: 0px 0px;
+    }
+    .menu-area-main {
+        height: 256px;
+        overflow-y: auto;
+    }
+    .megamenu>.row [class*="col-"] {
+        padding: 0px;
+    }
+    .menu-area-main .megamenu .men-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .women-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .el-cat {
+        padding: 0px 15px;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        height: 19px;
+    }
+    .category-box.women-box {
+        display: none;
+    }
+    .cart-box {
+        display: inline-block;
+        margin: 0px 30px;
+    }
+    .wish-box {
+        float: none;
+        margin: 0px 30px;
+        display: inline-block;
+    }
+    .menu-add {
+        display: none;
+    }
+    .category-box {
+        display: none;
+    }
+    .mean-container .mean-nav ul li ol {
+        padding: 0px;
+    }
+    .mean-container .mean-nav ul li a {
+        padding: 10px 20px;
+        width: 94.8%;
+    }
+    .mean-container .mean-nav ul li li a {
+        width: 92%;
+        padding: 1em 4%;
+    }
+    .mean-container .mean-nav ul li li li a {
+        width: 100%;
+    }
+    .header-search {
+        padding: 15px 0px;
+    }
+    #collapseFilter.d-md-block {
+        padding: 30px 0px;
+    }
+}
+
+
+/*------------------------------------------------------------------- 599px x 280px ---------------------------------------------------------------------*/
+
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+    .cart-content-right {
+        padding-bottom: 5px;
+    }
+    .megamenu>.row [class*="col-"] {
+        padding: 0px;
+    }
+    .menu-area-main .megamenu .men-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .women-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .el-cat {
+        padding: 0px 15px;
+    }
+    .mean-container .mean-nav ul li a {
+        padding: 1em 4%;
+        width: 92%;
+    }
+    .mean-container .mean-nav ul li li a {
+        width: 90%;
+        padding: 1em 5%;
+    }
+    .mean-container .sub-full.megamenu-categories ol li a {
+        padding: 5px 0px;
+        text-transform: capitalize;
+        width: 100%;
+    }
+    .megamenu .sub-full.megamenu-categories .women-box .banner-up-text a {
+        width: auto;
+        border: none;
+        float: none;
+    }
+    .menu-area-main {
+        height: 45px;
+        overflow-y: auto;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        top: 0;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+.image_1 {
+    width: 80%;
+    top: -30px;
+}
+.banner_taital {
+    width: 100%;
+    font-size: 70px;
+    padding-top: 30px;
+}
+.image_2 {
+    width: 100%;
+    padding-top: 60px;
+}
+
+.buynow_bt {
+    width: 138px;
+}
+.contact_bt {
+    width: 138px;
+}
+.banner_section {
+    padding-bottom: 90px;
+}
+.border_1 {
+    height: auto;
+    padding-bottom: 50px;
+}
+.catagary_menu li {
+    font-size: 16px;
+    padding: 0px 7px;
+}
+.box_man {
+    padding: 20px 5px;
+}
+.samsung_text {
+    font-size: 14px;
+}
+.rate_text {
+    font-size: 14px;
+}
+.rate_text_1 {
+    font-size: 14px;
+}
+.cart_bt a {
+    font-size: 14px;
+    padding: 8px 10px;
+}
+.camera_img {
+    padding: 94px 0px;
+}
+.watch_img {
+    padding: 69px 0px 70px 0px;
+}
+.computer_img {
+    min-height: 300px;
+}
+.computer_text_main {
+    width: 80%;
+}
+.offer_text {
+    width: 100%;
+    font-size: 40px;
+}
+.lorem_text {
+    width: 100%;
+}
+.mans_main {
+    padding: 30px 20px 0px 20px;
+}
+.image_3 {
+    padding-top: 80px;
+}
+.Get_offer_text {
+    width: 90%;
+    font-size: 40px;
+    padding-top: 28px;
+}
+.footer_logo {
+    width: 20%;
+    padding-top: 7px;
+}
+.paddlin_left_0 {
+    padding-left: 5px;
+}
+
+
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    #my_slider a.carousel-control-prev {
+        position: absolute;
+        left: 175px;
+        top: 90%;
+        display: none;
+    }
+    #my_slider a.carousel-control-next {
+        position: absolute;
+        left: 236px;
+        top: 90%;
+        display: none;
+    }
+.image_1 {
+    width: 80%;
+    top: -30px;
+}
+.banner_taital {
+    width: 100%;
+    font-size: 50px;
+    padding-top: 30px;
+}
+.image_2 {
+    width: 240px;
+    padding-top: 60px;
+}
+
+.buynow_bt {
+    display: none;
+}
+.contact_bt {
+    width: 170px;
+    margin: 0 auto;
+    float: initial;
+    text-align: center;
+}
+.border_1 {
+    height: auto;
+    padding-bottom: 50px;
+}
+.catagary_left {
+    width: 100%;
+    float: left;
+}
+.catagary_right {
+    width: 100%;
+    float: left;
+}
+.catagary_menu li {
+    font-size: 16px;
+    padding: 0px 4px;
+}
+.box_man {
+    padding: 20px 5px;
+}
+.samsung_text {
+    font-size: 12px;
+}
+.rate_text {
+    font-size: 10px;
+}
+.rate_text_1 {
+    font-size: 10px;
+}
+.cart_bt a {
+    font-size: 12px;
+    padding: 8px 4px;
+}
+.camera_img {
+    padding: 104px 0px;
+}
+.watch_img {
+    padding: 69px 0px 70px 0px;
+}
+.computer_img {
+    min-height: 220px;
+}
+.computer_text_main {
+    width: 100%;
+}
+.offer_text {
+    width: 100%;
+    font-size: 30px;
+}
+.lorem_text {
+    width: 100%;
+}
+.mans_main {
+    padding: 30px 20px 0px 20px;
+}
+.image_3 {
+    padding-top: 120px;
+}
+.Get_offer_text {
+    width: 100%;
+    font-size: 40px;
+    padding-top: 0px;
+}
+.footer_logo {
+    width: 20%;
+    padding-top: 7px;
+}
+.mail_section_1 {
+    width: 80%;
+}
+
+
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    #my_slider a.carousel-control-prev {
+        position: absolute;
+        left: 175px;
+        top: 90%;
+        display: none;
+    }
+    #my_slider a.carousel-control-next {
+        position: absolute;
+        left: 236px;
+        top: 90%;
+        display: none;
+    }
+.navbar-light .navbar-brand {
+    
+}
+.navbar-light .navbar-brand {
+    width: 92%;
+    text-align: right;
+    margin: 0px;
+    float: right;
+}
+.navbar{
+    padding: 10px 0px;
+}
+.login_text{
+    display: none;
+}
+.border_1 {
+    height: auto;
+    padding: 10px 0px;
+    margin: 0px;
+}
+.image_1{
+    text-align: center;
+}
+.banner_section{
+    padding-bottom: 0px;
+}
+.banner_taital{
+    padding-top: 40px;
+    font-size: 70px;
+    width: 90%;
+}
+.image_1 {
+    width: 100%;
+    position: initial;
+    top: 0px;
+}
+
+.buynow_bt {
+    width: 170px;
+}
+.contact_bt {
+    width: 170px;
+}
+.image_2 {
+    width: 100%;
+    padding-top: 30px;
+}
+.catagary_left {
+    width: 100%;
+}
+.catagary_right {
+    width: 100%;
+}
+.catagary_menu li {
+    float: initial;
+    padding: 5px 0px;
+}
+
+.catagary_menu{
+    text-align: center;
+}
+.box_man {
+    padding: 25px 5px;
+    margin-top: 20px;
+}
+.cart_main {
+    width: 60%;
+}
+.cart_bt a {
+    padding: 8px 14px;
+}
+.samsung_text {
+    font-size: 16px;
+}
+.computers_taital {
+    font-size: 36px;
+}
+.computer_main{
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.computer_text_main {
+    width: 80%;
+}
+.computer_img {
+    padding-top: 40px;
+    min-height: 0px;
+}
+.computer_text{
+    padding-top: 30px;
+}
+.mans_main {
+    margin-top: 40px;
+    padding: 20px 0px 0px 30px;
+}
+.offer_text {
+    width: 100%;
+    font-size: 50px;
+}
+.lorem_text {
+    width: 90%;
+}
+
+.womans_taital{
+    font-size: 36px;
+}
+
+.Get_offer_text {
+    width: 70%;
+    font-size: 40px;
+    padding-top: 0px;
+}
+.image_4{
+    padding-top: 30px;
+}
+.footer_logo_main {
+    width: 100%;
+    display: block;
+}
+.social_icon {
+    text-align: left;
+}
+.social_icon li {
+    float: left;
+    padding: 30px 20px 0px 0px;
+}
+.footer_section_2{
+    padding-top: 20px;
+}
+.adderss_text{
+    padding-top: 30px;
+}
+
+.footer_logo {
+    width: 20%;
+    float: left;
+}
+.mail_section_1 {
+    width: 100%;
+}
+
+}
+
+@media (max-width: 575px) {
+    #my_slider a.carousel-control-prev {
+        position: absolute;
+        left: 175px;
+        top: 90%;
+        display: none;
+    }
+    #my_slider a.carousel-control-next {
+        position: absolute;
+        left: 236px;
+        top: 90%;
+        display: none;
+    }
+.navbar-light .navbar-brand {
+    
+}
+.navbar-light .navbar-brand {
+    width: 80%;
+    text-align: right;
+    margin: 0px;
+}
+.navbar{
+    padding: 10px 0px;
+}
+.login_text{
+    display: none;
+}
+.border_1 {
+    height: auto;
+    padding: 10px 0px;
+    margin: 0px;
+}
+.image_1{
+    text-align: center;
+}
+.banner_section{
+    padding-bottom: 0px;
+}
+.banner_taital{
+    padding-top: 40px;
+}
+.image_1 {
+    width: 100%;
+    position: initial;
+    top: 0px;
+}
+.banner_taital {
+    font-size: 70px;
+}
+.buynow_bt {
+    width: 123px;
+}
+.contact_bt {
+    width: 123px;
+}
+.image_2 {
+    width: 100%;
+    padding-top: 30px;
+}
+.catagary_left {
+    width: 100%;
+}
+.catagary_right {
+    width: 100%;
+}
+.catagary_menu li {
+    float: initial;
+    padding: 5px 0px;
+}
+.catagary_menu{
+    text-align: center;
+}
+.box_man {
+    padding: 25px 5px;
+}
+.cart_bt a {
+    padding: 8px 4px;
+}
+.samsung_text {
+    font-size: 16px;
+}
+.computers_taital {
+    font-size: 26px;
+}
+.computer_main{
+    margin-top: 40px;
+    padding: 20px;
+}
+
+.computer_text_main {
+    width: 100%;
+}
+.computer_img {
+    padding-top: 40px;
+    min-height: 0px;
+}
+.computer_text{
+    padding-top: 30px;
+}
+.mans_main {
+    margin-top: 40px;
+    padding: 20px 0px 0px 30px;
+}
+.offer_text {
+    width: 100%;
+    font-size: 30px;
+}
+.lorem_text {
+    width: 90%;
+}
+
+.womans_taital{
+    font-size: 28px;
+}
+
+.Get_offer_text {
+    width: 100%;
+    font-size: 40px;
+    padding-top: 0px;
+}
+.image_4{
+    padding-top: 30px;
+}
+.footer_logo_main {
+    width: 100%;
+    display: block;
+}
+.social_icon {
+    text-align: left;
+}
+.social_icon li {
+    float: left;
+    padding: 30px 20px 0px 0px;
+}
+.footer_section_2{
+    padding-top: 20px;
+}
+.adderss_text{
+    padding-top: 30px;
+}
+
+.footer_logo {
+    width: 20%;
+    float: left;
+}
+.mail_section_1 {
+    width: 100%;
+}
+
+
+
+
+}

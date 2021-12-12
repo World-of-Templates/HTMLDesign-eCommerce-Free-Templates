@@ -1,0 +1,139 @@
+@media (max-width: 1120px) {
+    .hero_area {
+        height: auto;
+    }
+
+    .slider_section {
+        padding: 50px 0;
+    }
+}
+
+@media (max-width: 992px) {
+    .custom_nav-container .nav_search-btn {
+        background-position: center;
+    }
+
+    .service_section .card-deck {
+        flex-direction: column;
+    }
+
+    .service_section .card-deck .card {
+        margin-bottom: 25px;
+    }
+}
+
+@media (max-width: 768px) {
+    .slider_img-box {
+        width: 85%;
+        margin: 65px auto;
+    }
+
+    .slider_section .custom_carousel-control {
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        width: 105px;
+        transform: translate(-50%, -50%);
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .slider_img-box {
+        margin-left: 20%;
+    }
+
+    .slider_section .custom_carousel-control {
+        top: 106%;
+    }
+
+    .slider_section {
+
+        padding: 50px 0 105px 0;
+    }
+
+    .slider_section .carousel-control-prev {
+        left: 0;
+    }
+
+    .slider_section .carousel-control-next {
+        right: 0;
+    }
+
+    .contact_section {
+        background-size: 105px;
+    }
+
+    .contact_section input {
+        background-color: transparent;
+    }
+
+    .info_section .col-md-3 {
+        text-align: center;
+    }
+
+    .info_section .col-md-3:not(:nth-last-child(1)) {
+        margin-bottom: 35px;
+    }
+
+    .tasty_section h2 {
+        font-size: 80px;
+    }
+
+    .contact_section {
+        background-size: cover;
+    }
+
+    .info_items {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .info_items .item {
+        margin: 20px 0;
+    }
+
+    .info_items::before {
+        display: none;
+    }
+}
+
+@media (max-width: 576px) {
+    .slider_item-container .slider_item-detail {
+        text-align: center;
+    }
+
+    .slider_item-container .slider_item-detail .d-flex {
+        justify-content: center;
+    }
+
+    .why_section .row .col-md-6 {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .why_section .img_box {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .client_section .carousel-control-prev,
+    .client_section .carousel-control-next {
+        display: none;
+    }
+}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 420px) {
+    .client_section .row .col-12 {
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 360px) {}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+}

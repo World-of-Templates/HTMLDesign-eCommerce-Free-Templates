@@ -1,0 +1,168 @@
+@media (max-width: 1200px) {
+    .products_section {
+        margin-top: 45px;
+    }
+}
+
+@media (max-width: 1120px) {
+    .hero_area {
+        height: auto;
+    }
+
+    .slider_item-detail {
+        padding-top: 45px;
+    }
+
+}
+
+@media (max-width: 992px) {
+    .navbar-collapse {
+        flex: 0;
+    }
+
+    .detail_img-box {
+        width: 375px;
+        margin: 0 auto;
+    }
+
+    .detail_section .col-lg-7 {
+        display: flex;
+        justify-content: center;
+    }
+
+    .detail_container {
+        padding-top: 75px;
+    }
+
+    .sign_section form input {
+        width: 65%;
+    }
+}
+
+
+@media (max-width: 768px) {
+
+    .slider_section .carousel-control-prev,
+    .slider_section .carousel-control-next {
+        display: none;
+    }
+
+    .slider_section::before,
+    .slider_section::after {
+        display: none;
+    }
+
+    .detail_container {
+        flex-direction: column;
+    }
+
+    .detail-box.d-box-1::before,
+    .detail-box.d-box-3::before {
+        clip: rect(0px, 120px, 220px, 0);
+    }
+
+    .detail-box.d-box-2::before,
+    .detail-box.d-box-4::before {
+        clip: rect(0, 220px, 220px, 120px);
+    }
+
+    .detail-box {
+        margin: 15px;
+    }
+
+    .detail-box:hover::before {
+        transform: rotate(-360deg);
+    }
+
+    .client_box {
+        margin-bottom: 25px;
+    }
+
+    .sign_section form {
+        justify-content: flex-start;
+    }
+
+    .info_section .col-md-3 {
+        text-align: center;
+        padding-bottom: 25px;
+    }
+
+    .app_container {
+        flex-direction: column;
+    }
+
+    .app_container>div {
+        margin-top: 15px;
+    }
+
+    .info_social {
+        width: 250px;
+        margin: 0 auto;
+        margin-top: 0px;
+        margin-top: 50px;
+    }
+}
+
+@media (max-width: 576px) {
+    .slider_item-detail .slider_heading {
+        font-size: 56px;
+    }
+
+    .find_container-img,
+    .shoe_img-box {
+        padding: 20px;
+    }
+
+    .shop_container .col-sm-6,
+    .find_container .col-sm-6 {
+        padding-bottom: 35px;
+    }
+
+    .shop_container .row {
+        flex-direction: column-reverse;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .detail_img-box {
+        width: 100%;
+    }
+}
+
+@media (max-width: 420px) {
+    .sign_section form {
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+    .sign_section form input {
+        width: 100%;
+    }
+
+    .app_container h3 {
+        font-size: 20px;
+
+    }
+
+    .app_container>div {
+        flex-direction: column;
+    }
+
+    .app_container img:not(:last-child) {
+        margin-bottom: 10px;
+    }
+}
+
+@media (max-width: 360px) {
+    .slider_item-detail .slider_heading {
+        font-size: 48px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .container {
+        max-width: 1170px;
+    }
+
+}

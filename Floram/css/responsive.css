@@ -1,0 +1,125 @@
+@media (max-width: 1300px) {}
+
+@media (max-width: 1120px) {}
+
+@media (max-width: 991px) {
+
+  #navbarSupportedContent {
+    padding: 15px 0 0 0;
+  }
+
+  .custom_nav-container .navbar-nav .nav-item .nav-link {
+    padding: 10px 20px;
+  }
+
+  .quote_btn-container {
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+
+  .quote_btn-container a {
+    margin: 10px 0;
+  }
+
+  .slider_section {
+    padding: 45px 0 90px 0;
+  }
+
+  .slider_section::before {
+    right: -75px;
+  }
+
+  .client_section .carousel_btn-box {
+    display: flex;
+    justify-content: center;
+    margin-top: 45px;
+  }
+
+  .client_section .carousel-control-prev,
+  .client_section .carousel-control-next {
+    position: unset;
+    margin: 0 2.5px;
+    width: 45px;
+    height: 45px;
+  }
+
+}
+
+@media (max-width: 767px) {
+  .slider_section .detail-box {
+    text-align: center;
+    margin-bottom: 45px;
+  }
+
+  .slider_section .detail-box .btn-box {
+    justify-content: center;
+  }
+
+  .slider_section::before {
+    top: initial;
+    right: 0;
+    width: calc(100% - 45px);
+    height: 45%;
+    bottom: 45px;
+  }
+
+  .about_section .img-box {
+    margin-bottom: 45px;
+  }
+
+  .client_section .box {
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to bottom, #4E7F6A 115px, #ffffff 115px);
+    padding: 45px 25px;
+  }
+
+  .client_section .box .img-box {
+    margin-right: 0;
+    margin-bottom: 15px;
+  }
+
+  .info_section .row>div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .info_section .info_links {
+    align-items: center;
+  }
+}
+
+@media (max-width: 576px) {
+  .contact_section .form_container {
+    padding: 45px 25px;
+  }
+}
+
+@media (max-width: 480px) {
+  .slider_section::before {
+    height: 35%;
+  }
+}
+
+@media (max-width: 420px) {}
+
+@media (max-width: 396px) {
+
+  .offer_section .box.offer-box1 .detail-box h2,
+  .offer_section .box.offer-box2 .detail-box h2,
+  .offer_section .box.offer-box3 .detail-box h2 {
+    font-size: 2.2rem;
+  }
+
+  .slider_section::before {
+    height: 32%;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}

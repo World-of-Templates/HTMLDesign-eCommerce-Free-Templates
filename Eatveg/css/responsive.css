@@ -1,0 +1,64 @@
+@media (max-width: 1360px) {}
+
+@media (max-width: 1120px) {}
+
+@media (max-width: 992px) {
+
+
+  .hero_area {
+    height: auto;
+  }
+
+  .hero_area .play_btn {
+    bottom: 45px;
+  }
+
+  .slider_section {
+    padding-top: 45px;
+  }
+
+}
+
+@media (max-width: 768px) {
+
+  .slider_section {
+    text-align: center;
+  }
+
+  .contact_section .map_container {
+    margin-top: 45px;
+  }
+
+  .client_section .box {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .client_section .box .client_id {
+    margin-right: -20px;
+    margin-bottom: 25px;
+  }
+
+}
+
+@media (max-width: 576px) {
+  .slider_section .detail-box h1 {
+    font-size: 3rem;
+  }
+
+  .navbar-brand {
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 480px) {}
+
+@media (max-width: 420px) {}
+
+@media (max-width: 360px) {}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1170px;
+  }
+}

@@ -1,0 +1,256 @@
+/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+
+@media (min-width: 1200px) and (max-width: 1342px) {
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 0px 14px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .titlepage h2 {
+        font-size: 32px;
+    }
+    .about .titlepage::before {
+        right: -16px;
+    }
+    .about .titlepage p {
+        line-height: 28px;
+        padding-top: 9px;
+    }
+    .about .about_img {
+        margin-left: 0px;
+    }
+    .shop .titlepage {
+        padding-right: 15px;
+    }
+    .d_none {
+        display: none;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 0px 9px;
+    }
+    .text-bg h1 {
+        margin-left: 31px;
+    }
+    .shop .titlepage h2 {
+        font-size: 25px;
+        line-height: 33px;
+    }
+    .about .about_img {
+        margin-left: 0px;
+    }
+    .shop .titlepage {
+        padding-right: 15px;
+    }
+    .clients_box p {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .about .titlepage {
+        margin-right: 0;
+    }
+    .about .titlepage::before {
+        background: inherit;
+        right: 0px;
+    }
+    .d_none {
+        display: none;
+    }
+    ul.location_icon li {
+        padding: 0 18px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .text-bg h1 {
+        font-size: 48px;
+    }
+    .logo {
+        padding-top: 5px;
+    }
+    .titlepage h2 {
+        font-size: 31px;
+    }
+    .shop .max_width {
+        padding-left: 15px;
+    }
+    .about .about_img {
+        margin-left: 0px;
+    }
+    .shop .titlepage {
+        padding-right: 15px;
+    }
+    .about .titlepage {
+        margin-right: 0;
+        margin-top: 20px;
+    }
+    .clients_box p {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .about .titlepage::before {
+        background: inherit;
+        right: 0px;
+    }
+    .d_none {
+        display: none;
+    }
+    .conta {
+        margin-bottom: 30px;
+    }
+    ul.location_icon li {
+        font-size: 17px;
+        padding-left: 13px;
+    }
+    .position_head .header {
+        background: transparent;
+    }
+    .navigation.navbar {
+        float: right;
+        display: inherit !important;
+        padding: 0;
+        width: 100%;
+        padding-top: 2px !important;
+        background: transparent;
+    }
+    .navigation .navbar-collapse {
+        background: #070404;
+        padding: 20px;
+        margin-top: 64px;
+        position: absolute;
+        width: 100%;
+        margin-right: 20px;
+        z-index: 999;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 10px 0;
+        color: #fff;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link:focus,
+    .navigation.navbar-dark .navbar-nav .nav-link:hover {
+        color: #03cafc;
+    }
+    .navigation.navbar-dark .navbar-nav .active>.nav-link,
+    .navigation.navbar-dark .navbar-nav .nav-link.active,
+    .navigation.navbar-dark .navbar-nav .nav-link.show,
+    .navigation.navbar-dark .navbar-nav .show>.nav-link {
+        color: #03cafc;
+    }
+    .navigation.navbar-dark .navbar-toggler {
+        border: inherit;
+        float: right;
+        padding-top: 6px;
+    }
+    .navigation.navbar-dark .navbar-toggler-icon {
+        background: url(../images/menu_icon.png);
+        background-repeat: no-repeat;
+    }
+}
+
+@media (max-width: 575px) {
+    .header {
+        padding: 30px 0px 15px 0px;
+    }
+    .logo {
+        text-align: center !important;
+        padding-bottom: 6px;
+        padding-top: 5px;
+        float: left;
+    }
+    .text-bg h1 {
+        font-size: 28px;
+        line-height: 42px;
+    }
+    .titlepage h2 {
+        font-size: 29px;
+    }
+    .shop .max_width {
+        padding-left: 15px;
+    }
+    .d_none {
+        display: none;
+    }
+    .about .about_img {
+        margin-left: 0px;
+    }
+    .padding_right0 {
+        padding-right: 15px;
+    }
+    .clients_box {
+        margin-left: 0px;
+        padding: 40px 32px 40px 30px;
+    }
+    .clients_box figure {
+        margin-bottom: 20px;
+        margin-left: 0px;
+    }
+    .clients_box p {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .shop .titlepage {
+        padding-right: 15px;
+    }
+    .about .titlepage {
+        margin-right: 0;
+        margin-top: 20px;
+    }
+    .about .titlepage::before {
+        background: inherit;
+        right: 0px;
+    }
+    .main_form {
+        padding: 40px 0px;
+        margin-right: 15px;
+    }
+    .navigation.navbar {
+        float: right;
+        display: inherit !important;
+        padding: 0 !important;
+        width: 100%;
+        margin-top: -42px;
+        background: transparent;
+    }
+    .position_head .header {
+        background: transparent;
+    }
+    .navigation .navbar-collapse {
+        background: #070404;
+        padding: 20px;
+        margin-top: 55px;
+        position: absolute;
+        width: 100%;
+        margin-right: 20px;
+        z-index: 999;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 10px 0;
+        color: #fff;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link:focus,
+    .navigation.navbar-dark .navbar-nav .nav-link:hover {
+        color: #03cafc;
+    }
+    .navigation.navbar-dark .navbar-nav .active>.nav-link,
+    .navigation.navbar-dark .navbar-nav .nav-link.active,
+    .navigation.navbar-dark .navbar-nav .nav-link.show,
+    .navigation.navbar-dark .navbar-nav .show>.nav-link {
+        color: #03cafc;
+    }
+    .navigation.navbar-dark .navbar-toggler {
+        float: right;
+        margin-right: 2px;
+        border: inherit;
+    }
+    .navigation.navbar-dark .navbar-toggler-icon {
+        background: url(../images/menu_icon.png);
+        background-repeat: no-repeat;
+    }
+}
+

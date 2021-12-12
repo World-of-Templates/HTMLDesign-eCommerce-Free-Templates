@@ -1,0 +1,467 @@
+/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .header-search {
+        padding: 15px 0px;
+    }
+}
+
+
+/*------------------------------------------------------------------- 767px x 599px ---------------------------------------------------------------------*/
+
+@media only screen and (min-width: 599px) and (max-width: 767px) {
+    .logo {
+        text-align: center;
+    }
+    .cart-content-right {
+        padding-bottom: 5px;
+    }
+    .mg {
+        margin: 0px 0px;
+    }
+    .menu-area-main {
+        height: 256px;
+        overflow-y: auto;
+    }
+    .megamenu>.row [class*="col-"] {
+        padding: 0px;
+    }
+    .menu-area-main .megamenu .men-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .women-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .el-cat {
+        padding: 0px 15px;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        height: 19px;
+    }
+    .category-box.women-box {
+        display: none;
+    }
+    .cart-box {
+        display: inline-block;
+        margin: 0px 30px;
+    }
+    .wish-box {
+        float: none;
+        margin: 0px 30px;
+        display: inline-block;
+    }
+    .menu-add {
+        display: none;
+    }
+    .category-box {
+        display: none;
+    }
+    .mean-container .mean-nav ul li ol {
+        padding: 0px;
+    }
+    .mean-container .mean-nav ul li a {
+        padding: 10px 20px;
+        width: 94.8%;
+    }
+    .mean-container .mean-nav ul li li a {
+        width: 92%;
+        padding: 1em 4%;
+    }
+    .mean-container .mean-nav ul li li li a {
+        width: 100%;
+    }
+    .header-search {
+        padding: 15px 0px;
+    }
+    #collapseFilter.d-md-block {
+        padding: 30px 0px;
+    }
+}
+
+
+/*------------------------------------------------------------------- 599px x 280px ---------------------------------------------------------------------*/
+
+@media only screen and (min-width: 280px) and (max-width: 599px) {
+    .cart-content-right {
+        padding-bottom: 5px;
+    }
+    .megamenu>.row [class*="col-"] {
+        padding: 0px;
+    }
+    .menu-area-main .megamenu .men-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .women-cat {
+        padding: 0px 15px;
+    }
+    .menu-area-main .megamenu .el-cat {
+        padding: 0px 15px;
+    }
+    .mean-container .mean-nav ul li a {
+        padding: 1em 4%;
+        width: 92%;
+    }
+    .mean-container .mean-nav ul li li a {
+        width: 90%;
+        padding: 1em 5%;
+    }
+    .mean-container .sub-full.megamenu-categories ol li a {
+        padding: 5px 0px;
+        text-transform: capitalize;
+        width: 100%;
+    }
+    .megamenu .sub-full.megamenu-categories .women-box .banner-up-text a {
+        width: auto;
+        border: none;
+        float: none;
+    }
+    .menu-area-main {
+        height: 45px;
+        overflow-y: auto;
+    }
+    .mean-container .mean-nav ul li a.mean-expand {
+        top: 0;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .banner_bg_main {
+        background-size: 100% 100%;
+    }
+    .tshirt_img {
+        margin: 20px 0px;
+        min-height: 360px;
+    }
+    #main_slider a.carousel-control-next {
+        right: 40px;
+        top: 110%;
+    }
+    #main_slider a.carousel-control-prev {
+        left: 40px;
+        top: 110%;
+    }
+    .electronic_img {
+        margin: 20px 0px;
+        min-height: 280px;
+    }
+    #electronic_main_slider a.carousel-control-next {
+        right: 40px;
+        top: 110%;
+    }
+    #electronic_main_slider a.carousel-control-prev {
+        left: 40px;
+        top: 110%;
+    }
+    .jewellery_img {
+        margin: 20px 0px;
+        min-height: 0;
+    }
+    #jewellery_main_slider a.carousel-control-prev {
+        left: 40px;
+        top: 70%;
+    }
+    #jewellery_main_slider a.carousel-control-next {
+        right: 40px;
+        top: 70%;
+    }
+    .input_bt {
+        width: 80%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .banner_bg_main {
+        background-size: 100% 100%;
+    }
+    .dropdown {
+        display: none;
+    }
+    .tshirt_img {
+        margin: 20px 0px;
+        min-height: 320px;
+    }
+    .banner_taital {
+        font-size: 50px;
+    }
+    #main_slider a.carousel-control-next {
+        right: 40px;
+        top: 110%;
+    }
+    #main_slider a.carousel-control-prev {
+        left: 40px;
+        top: 110%;
+    }
+    .electronic_img {
+        margin: 20px 0px;
+        min-height: 190px;
+    }
+    #electronic_main_slider a.carousel-control-next {
+        right: 40px;
+        top: 110%;
+    }
+    #electronic_main_slider a.carousel-control-prev {
+        left: 40px;
+        top: 110%;
+    }
+    .jewellery_img {
+        margin: 20px 0px;
+        min-height: 0;
+    }
+    #jewellery_main_slider a.carousel-control-prev {
+        left: 40px;
+        top: 70%;
+    }
+    #jewellery_main_slider a.carousel-control-next {
+        right: 40px;
+        top: 70%;
+    }
+    .input_bt {
+        width: 100%;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .banner_bg_main {
+        background-size: 100% 100%;
+    }
+    .header_section_top {
+        display: none;
+    }
+    .containt_main {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .toggle_icon {
+        cursor: pointer;
+        order: 2;
+    }
+    .main {
+        margin: 0px 0px 0px 0px;
+    }
+    .main {
+        margin: 0px 0px;
+    }
+    .input-group {
+        width: auto;
+        margin-right: 0px;
+        margin-left: 10px;
+    }
+    .header_box {
+        order: 1;
+        display: flex;
+        width: 100%;
+        margin-bottom: 20px;
+        justify-content: space-between;
+    }
+    .dropdown {
+        display: none;
+    }
+    .login_menu li {
+        float: left;
+        font-size: 14px;
+    }
+    .nav-link {
+        padding: .4rem 0px;
+        color: #fff;
+    }
+    .lang_box {
+        background-color: transparent;
+    }
+    .banner_taital {
+        font-size: 40px;
+    }
+    #my_slider a.carousel-control-prev {
+        top: -10px;
+    }
+    #my_slider a.carousel-control-next {
+        top: -10px;
+    }
+    .fashion_taital {
+        font-size: 24px;
+    }
+    .fashion_section {
+        padding-bottom: 100px;
+    }
+    .electronic_img {
+        margin: 20px 0px;
+        min-height: 145px;
+    }
+    .tshirt_img {
+        margin: 20px 0px;
+        min-height: 246px;
+    }
+    .jewellery_img {
+        margin: 20px 0px;
+        min-height: 0;
+    }
+    .shirt_text {
+        font-size: 14px;
+    }
+    .price_text {
+        font-size: 14px
+    }
+    .buy_bt a {
+        font-size: 12px;
+    }
+    .seemore_bt a {
+        font-size: 12px;
+    }
+    .box_main {
+        padding: 20px 10px;
+    }
+    #jewellery_main_slider a.carousel-control-prev {
+        left: 35px;
+        top: 65%;
+    }
+    #jewellery_main_slider a.carousel-control-next {
+        right: 35px;
+        top: 65%;
+    }
+    #main_slider a.carousel-control-prev {
+        left: 33px;
+        top: 101%;
+    }
+    #main_slider a.carousel-control-next {
+        right: 33px;
+        top: 101%;
+    }
+    #electronic_main_slider a.carousel-control-prev {
+        left: 33px;
+        top: 101%;
+    }
+    #electronic_main_slider a.carousel-control-next {
+        right: 33px;
+        top: 101%;
+    }
+    .input_bt {
+        width: 100%;
+    }
+    .mail_bt {
+        width: 70%;
+    }
+    .footer_menu li {
+        float: none;
+        padding: 10px 10px 0px 10px;
+    }
+    .location_main {
+        padding: 30px 0px 30px 0px;
+    }
+}
+
+@media (max-width: 575px) {
+    .banner_bg_main {
+        background-size: cover;
+    }
+    .header_section_top {
+        display: none;
+    }
+    .containt_main {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+    }
+    .toggle_icon {
+        cursor: pointer;
+        order: 2;
+    }
+    .main {
+        margin: 0px 0px 0px 0px;
+    }
+    .main {
+        margin: 0px 0px;
+    }
+    .input-group {
+        width: auto;
+        margin-right: 0px;
+        margin-left: 10px;
+    }
+    .header_box {
+        order: 1;
+        display: flex;
+        width: 100%;
+        margin-bottom: 20px;
+        justify-content: space-between;
+    }
+    .dropdown {
+        display: none;
+    }
+    .login_menu li {
+        float: left;
+        font-size: 14px;
+    }
+    .nav-link {
+        padding: .4rem 0px;
+        color: #fff;
+    }
+    .lang_box {
+        background-color: transparent;
+    }
+    .banner_taital {
+        font-size: 24px;
+    }
+    #my_slider a.carousel-control-prev {
+        top: -10px;
+    }
+    #my_slider a.carousel-control-next {
+        top: -10px;
+    }
+    .fashion_taital {
+        font-size: 24px;
+    }
+    .fashion_section {
+        padding-bottom: 100px;
+    }
+    .electronic_img {
+        margin: 20px 0px;
+        min-height: 0;
+    }
+    .tshirt_img {
+        margin: 20px 0px;
+        min-height: 0;
+    }
+    .jewellery_img {
+        margin: 20px 0px;
+        min-height: 0;
+    }
+    #jewellery_main_slider a.carousel-control-prev {
+        left: 15px;
+        top: 86%;
+    }
+    #jewellery_main_slider a.carousel-control-next {
+        right: 15px;
+        top: 86%;
+    }
+    #main_slider a.carousel-control-prev {
+        left: 15px;
+        top: 101%;
+    }
+    #main_slider a.carousel-control-next {
+        right: 15px;
+        top: 101%;
+    }
+    #electronic_main_slider a.carousel-control-prev {
+        left: 15px;
+        top: 101%;
+    }
+    #electronic_main_slider a.carousel-control-next {
+        right: 15px;
+        top: 101%;
+    }
+    .input_bt {
+        width: 100%;
+    }
+    .mail_bt {
+        width: 70%;
+    }
+    .footer_menu li {
+        float: none;
+        padding: 10px 10px 0px 10px;
+    }
+    .location_main {
+        padding: 30px 0px 30px 0px;
+    }
+}

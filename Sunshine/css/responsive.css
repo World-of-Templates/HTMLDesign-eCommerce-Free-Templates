@@ -1,0 +1,297 @@
+/*--------------------------------------------------------------------- File Name: responsive.css ---------------------------------------------------------------------*/
+
+
+/*------------------------------------------------------------------- 991px x 768px ---------------------------------------------------------------------*/
+
+@media (min-width: 1200px) and (max-width: 1342px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .header {
+        padding: 15px 5px;
+    }
+    .titlepage h2 {
+        font-size: 39px;
+        line-height: 34px;
+    }
+    .our_products h3 {
+        font-size: 19px;
+    }
+    .using .titlepage .read_more {
+        margin-top: 30px;
+    }
+    .bottom_form .enter {
+        width: 57%;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .header {
+        padding: 15px 0px;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 9px 11px;
+    }
+    .logo::before {
+        position: absolute;
+        content: "";
+        top: -36px;
+        background: url(../images/lo_be.png);
+        width: 322px;
+        height: 167px;
+        left: 0;
+        background-repeat: no-repeat;
+    }
+    .text_box h1 {
+        font-size: 83px
+    }
+    .titlepage h2 {
+        font-size: 31px;
+        line-height: 30px;
+    }
+    .bottom_form .enter {
+        width: 57%;
+    }
+    .using .titlepage .read_more {
+        margin-top: 30px;
+    }
+    .using {
+        margin: 0px 20px;
+    }
+    .using .titlepage p {
+        padding-bottom: 20px;
+        padding-top: 11px;
+        font-size: 15px;
+    }
+    .frout_img figure img {
+        height: 340px;
+    }
+    .main_form {
+        padding: 36px 30px;
+    }
+    .sub_btn {
+        max-width: 203px;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+    .inner_page .full_bg {
+        padding-bottom: 61px;
+    }
+    .header {
+        height: 76px;
+        padding: 15px 0px;
+    }
+    .logo a img {
+        position: relative;
+        z-index: 9999;
+    }
+    .logo::before {
+        position: absolute;
+        content: "";
+        top: -36px;
+        background: url(../images/lo_be.png);
+        width: 322px;
+        height: 167px;
+        left: 0;
+        background-repeat: no-repeat;
+    }
+    .text_box {
+        padding-top: 30%;
+    }
+    .using {
+        margin: 0 20px;
+    }
+    .using .titlepage h2 {
+        margin-top: 40px;
+    }
+    .using .titlepage .read_more {
+        margin-bottom: 30px;
+    }
+    .margin_top {
+        margin-top: 0px;
+    }
+    .margin_bott {
+        margin-bottom: 0px;
+    }
+    .padd_top30 {
+        padding-top: 30px !important;
+    }
+    .balance {
+        margin: 0;
+    }
+    .padding_right0 {
+        padding-right: 15px;
+    }
+    .padding_left0 {
+        padding-left: 15px;
+    }
+    ul.link_menu {
+        margin-bottom: 20px;
+    }
+    .bottom_form .enter {
+        width: 100%;
+    }
+    .many {
+        margin-bottom: 20px;
+    }
+    .navigation.navbar {
+        float: right;
+        display: inherit !important;
+        padding: 0;
+        width: 100%;
+    }
+    .navigation .navbar-collapse {
+        background: #ff3556;
+        padding: 20px;
+        margin-top: 68px;
+        position: absolute;
+        width: 100%;
+        z-index: 999;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 10px 0;
+        color: #fff;
+    }
+    .navigation.navbar-dark .navbar-toggler {
+        border: inherit;
+        float: right;
+        padding-top: 9px;
+    }
+    .navigation.navbar-dark .navbar-toggler-icon {
+        background: url(../images/menu_icon.png);
+        background-repeat: no-repeat;
+    }
+    .d_none {
+        display: none;
+    }
+}
+
+@media (max-width: 575px) {
+    .inner_page .full_bg {
+        padding-bottom: 61px;
+    }
+    .back_re .title h2 {
+        font-size: 31px;
+    }
+    .logo a img {
+        position: relative;
+        z-index: 9999;
+    }
+    .logo::before {
+        position: absolute;
+        content: "";
+        top: -35px;
+        background: url(../images/lo_be-Copy.png);
+        width: 270px;
+        height: 139px;
+        height: 171px;
+        left: -40px;
+        background-repeat: no-repeat;
+    }
+    .logo {
+        text-align: center !important;
+        padding-top: 7px;
+        float: left;
+        position: relative;
+        width: 120px;
+    }
+    .header {
+        padding: 15px 0px;
+    }
+    .back_re {
+        margin-top: 0;
+    }
+    .text_box h1 strong {
+        font-size: 54px;
+        line-height: 61px;
+    }
+    .text_box h1 {
+        font-size: 49px;
+        line-height: 50px;
+    }
+    .about_img {
+        margin: 0;
+    }
+    .using {
+        margin: 0 10px 0 10px;
+    }
+    .using .titlepage h2 {
+        margin-top: 40px;
+    }
+    .using .titlepage .read_more {
+        margin-bottom: 30px;
+    }
+    .titlepage h2 {
+        font-size: 27px;
+        line-height: 31px;
+    }
+    .margin_top {
+        margin-top: 0px;
+    }
+    .margin_bott {
+        margin-bottom: 0px;
+    }
+    .middle {
+        margin: 0;
+        padding-top: 37px;
+    }
+    .padd_top30 {
+        padding-top: 30px !important;
+    }
+    .balance {
+        margin: 0;
+        margin-top: 10px !important;
+    }
+    .padding_right0 {
+        padding-right: 15px;
+    }
+    .padding_left0 {
+        padding-left: 15px;
+    }
+    .main_form {
+        padding: 40px 20px;
+    }
+    .newslatter h4 {
+        font-size: 22px;
+    }
+    ul.link_menu {
+        margin-bottom: 20px;
+    }
+    .bottom_form .enter {
+        width: 100%;
+    }
+    .many {
+        margin-bottom: 20px;
+    }
+    .navigation.navbar {
+        float: right;
+        display: inherit !important;
+        padding: 0;
+        padding-top: 38px !important;
+        width: 100%;
+    }
+    .navigation .navbar-collapse {
+        background: #ff3556;
+        padding: 20px;
+        margin-top: -5px;
+        position: absolute;
+        width: 100%;
+        z-index: 999;
+    }
+    .navigation.navbar-dark .navbar-nav .nav-link {
+        padding: 10px 0;
+        color: #fff;
+    }
+    .navigation.navbar-dark .navbar-toggler {
+        float: right;
+        border: inherit;
+        margin-top: -61px;
+    }
+    .navigation.navbar-dark .navbar-toggler-icon {
+        background: url(../images/menu_icon.png);
+        background-repeat: no-repeat;
+    }
+    .d_none {
+        display: none;
+    }
+}
