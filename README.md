@@ -3,75 +3,75 @@
 ## Demo
 Famms | Sunshine
 --- | ---
-[![Famms](https://template.bikinwebskuy.com/HDE/zSupportImages/Famms.png)](https://template.bikinwebskuy.com/HDE/Famms) | [![Sunshine](https://template.bikinwebskuy.com/HDE/zSupportImages/Sunshine.png)](https://template.bikinwebskuy.com/HDE/Sunshine)
+[![Famms](https://template.xtramile.id/HDE/zSupportImages/Famms.png)](https://template.xtramile.id/HDE/Famms) | [![Sunshine](https://template.xtramile.id/HDE/zSupportImages/Sunshine.png)](https://template.xtramile.id/HDE/Sunshine)
 eCommerce HTML Template | Fruit and Vegetables HTML Template
 
 Fior | Timups
 --- | ---
-[![Fior](https://template.bikinwebskuy.com/HDE/zSupportImages/Fior.png)](https://template.bikinwebskuy.com/HDE/Fior) | [![Timups](https://template.bikinwebskuy.com/HDE/zSupportImages/Timups.png)](https://template.bikinwebskuy.com/HDE/Timups)
+[![Fior](https://template.xtramile.id/HDE/zSupportImages/Fior.png)](https://template.xtramile.id/HDE/Fior) | [![Timups](https://template.xtramile.id/HDE/zSupportImages/Timups.png)](https://template.xtramile.id/HDE/Timups)
 Flowers Shop HTML Template | Smart Watches HTML Templates
 
 Eatveg | Slark
 --- | ---
-[![Eatveg](https://template.bikinwebskuy.com/HDE/zSupportImages/Eatveg.png)](https://template.bikinwebskuy.com/HDE/Eatveg) | [![Slark](https://template.bikinwebskuy.com/HDE/zSupportImages/Slark.png)](https://template.bikinwebskuy.com/HDE/Slark)
+[![Eatveg](https://template.xtramile.id/HDE/zSupportImages/Eatveg.png)](https://template.xtramile.id/HDE/Eatveg) | [![Slark](https://template.xtramile.id/HDE/zSupportImages/Slark.png)](https://template.xtramile.id/HDE/Slark)
 Vegetables HTML Website Template | Free Fashion Shop HTML Template
 
 Floram | Watcher
 --- | ---
-[![Floram](https://template.bikinwebskuy.com/HDE/zSupportImages/Floram.png)](https://template.bikinwebskuy.com/HDE/Floram) | [![Watcher](https://template.bikinwebskuy.com/HDE/zSupportImages/Watcher.png)](https://template.bikinwebskuy.com/HDE/Watcher)
+[![Floram](https://template.xtramile.id/HDE/zSupportImages/Floram.png)](https://template.xtramile.id/HDE/Floram) | [![Watcher](https://template.xtramile.id/HDE/zSupportImages/Watcher.png)](https://template.xtramile.id/HDE/Watcher)
 Free Fruits HTML Template | Watch HTML Template
 
 Minics | Healet
 --- | ---
-[![Minics](https://template.bikinwebskuy.com/HDE/zSupportImages/Minics.png)](https://template.bikinwebskuy.com/HDE/Minics) | [![Healet](https://template.bikinwebskuy.com/HDE/zSupportImages/Healet.png)](https://template.bikinwebskuy.com/HDE/Healet)
+[![Minics](https://template.xtramile.id/HDE/zSupportImages/Minics.png)](https://template.xtramile.id/HDE/Minics) | [![Healet](https://template.xtramile.id/HDE/zSupportImages/Healet.png)](https://template.xtramile.id/HDE/Healet)
 Online Ecommerce HTML Template | Free Jewelery Website Template
 
 Edgecut | Handtime
 --- | ---
-[![Edgecut](https://template.bikinwebskuy.com/HDE/zSupportImages/Edgecut.png)](https://template.bikinwebskuy.com/HDE/Edgecut) | [![Handtime](https://template.bikinwebskuy.com/HDE/zSupportImages/Handtime.png)](https://template.bikinwebskuy.com/HDE/Handtime)
+[![Edgecut](https://template.xtramile.id/HDE/zSupportImages/Edgecut.png)](https://template.xtramile.id/HDE/Edgecut) | [![Handtime](https://template.xtramile.id/HDE/zSupportImages/Handtime.png)](https://template.xtramile.id/HDE/Handtime)
 Furniture Website Template | Watches Website Template
 
 Giftos | Digitf
 --- | ---
-[![Giftos](https://template.bikinwebskuy.com/HDE/zSupportImages/Giftos.png)](https://template.bikinwebskuy.com/HDE/Giftos) | [![Digitf](https://template.bikinwebskuy.com/HDE/zSupportImages/Digitf.png)](https://template.bikinwebskuy.com/HDE/Digitf)
+[![Giftos](https://template.xtramile.id/HDE/zSupportImages/Giftos.png)](https://template.xtramile.id/HDE/Giftos) | [![Digitf](https://template.xtramile.id/HDE/zSupportImages/Digitf.png)](https://template.xtramile.id/HDE/Digitf)
 Gift eCommerce Shop Template | Furniture Website Template
 
 Foodfinda | Frica
 --- | ---
-[![Foodfinda](https://template.bikinwebskuy.com/HDE/zSupportImages/Foodfinda.png)](https://template.bikinwebskuy.com/HDE/Foodfinda) | [![Frica](https://template.bikinwebskuy.com/HDE/zSupportImages/Frica.png)](https://template.bikinwebskuy.com/HDE/Frica)
+[![Foodfinda](https://template.xtramile.id/HDE/zSupportImages/Foodfinda.png)](https://template.xtramile.id/HDE/Foodfinda) | [![Frica](https://template.xtramile.id/HDE/zSupportImages/Frica.png)](https://template.xtramile.id/HDE/Frica)
 Restaurants Website Template | Simple eCommerce HTML Template
 
 Eflyer | Caraft
 --- | ---
-[![Eflyer](https://template.bikinwebskuy.com/HDE/zSupportImages/Eflyer.png)](https://template.bikinwebskuy.com/HDE/Eflyer) | [![Caraft](https://template.bikinwebskuy.com/HDE/zSupportImages/Caraft.png)](https://template.bikinwebskuy.com/HDE/Caraft)
+[![Eflyer](https://template.xtramile.id/HDE/zSupportImages/Eflyer.png)](https://template.xtramile.id/HDE/Eflyer) | [![Caraft](https://template.xtramile.id/HDE/zSupportImages/Caraft.png)](https://template.xtramile.id/HDE/Caraft)
 Free Shopping HTML Template | Online Shop HTML Template
 
 Ninom | Sungla
 --- | ---
-[![Ninom](https://template.bikinwebskuy.com/HDE/zSupportImages/Ninom.png)](https://template.bikinwebskuy.com/HDE/Ninom) | [![Sungla](https://template.bikinwebskuy.com/HDE/zSupportImages/Sungla.png)](https://template.bikinwebskuy.com/HDE/Sungla)
+[![Ninom](https://template.xtramile.id/HDE/zSupportImages/Ninom.png)](https://template.xtramile.id/HDE/Ninom) | [![Sungla](https://template.xtramile.id/HDE/zSupportImages/Sungla.png)](https://template.xtramile.id/HDE/Sungla)
 Free Fruit Shop HTML Template | Glasses Shop HTML Template
 
 Zezmon | Cla
 --- | ---
-[![Zezmon](https://template.bikinwebskuy.com/HDE/zSupportImages/Zezmon.png)](https://template.bikinwebskuy.com/HDE/Zezmon) | [![Cla](https://template.bikinwebskuy.com/HDE/zSupportImages/Cla.png)](https://template.bikinwebskuy.com/HDE/Cla)
+[![Zezmon](https://template.xtramile.id/HDE/zSupportImages/Zezmon.png)](https://template.xtramile.id/HDE/Zezmon) | [![Cla](https://template.xtramile.id/HDE/zSupportImages/Cla.png)](https://template.xtramile.id/HDE/Cla)
 Responsive eCommerce HTML Template | Computer Accessories HTML Template
 
 AJ | Pullo
 --- | ---
-[![AJ](https://template.bikinwebskuy.com/HDE/zSupportImages/AJ.png)](https://template.bikinwebskuy.com/HDE/AJ) | [![Pullo](https://template.bikinwebskuy.com/HDE/zSupportImages/Pullo.png)](https://template.bikinwebskuy.com/HDE/Pullo)
+[![AJ](https://template.xtramile.id/HDE/zSupportImages/AJ.png)](https://template.xtramile.id/HDE/AJ) | [![Pullo](https://template.xtramile.id/HDE/zSupportImages/Pullo.png)](https://template.xtramile.id/HDE/Pullo)
 Jewelery Shop HTML Template | Shoes Shop HTML Template
 
 Lion | Pomato
 --- | ---
-[![Lion](https://template.bikinwebskuy.com/HDE/zSupportImages/Lion.png)](https://template.bikinwebskuy.com/HDE/Lion) | [![Pomato](https://template.bikinwebskuy.com/HDE/zSupportImages/Pomato.png)](https://template.bikinwebskuy.com/HDE/Pomato)
+[![Lion](https://template.xtramile.id/HDE/zSupportImages/Lion.png)](https://template.xtramile.id/HDE/Lion) | [![Pomato](https://template.xtramile.id/HDE/zSupportImages/Pomato.png)](https://template.xtramile.id/HDE/Pomato)
 eCommerce Website HTML Template | Mobile Shop HTML Template
 
 Chamb | Freshshop
 --- | ---
-[![Chamb](https://template.bikinwebskuy.com/HDE/zSupportImages/Chamb.png)](https://template.bikinwebskuy.com/HDE/Chamb) | [![Freshshop](https://template.bikinwebskuy.com/HDE/zSupportImages/Freshshop.png)](https://template.bikinwebskuy.com/HDE/Freshshop)
+[![Chamb](https://template.xtramile.id/HDE/zSupportImages/Chamb.png)](https://template.xtramile.id/HDE/Chamb) | [![Freshshop](https://template.xtramile.id/HDE/zSupportImages/Freshshop.png)](https://template.xtramile.id/HDE/Freshshop)
 Free Furniture eCommerce Template | eCommerce Bootstrap Website Template
 
 ThewayShop |
 --- |
-[![ThewayShop](https://template.bikinwebskuy.com/HDE/zSupportImages/ThewayShop.png)](https://template.bikinwebskuy.com/HDE/ThewayShop) |
+[![ThewayShop](https://template.xtramile.id/HDE/zSupportImages/ThewayShop.png)](https://template.xtramile.id/HDE/ThewayShop) |
 Vegetables HTML Website Template |
